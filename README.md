@@ -1,4 +1,4 @@
-👤 Student Details
+ Student Details
 Name: D.Mohith varma
 Roll Number: [17]
  Assignment Overview
